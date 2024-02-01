@@ -32,6 +32,6 @@ A Java Developer
 
 <p>
 <a href="https://blog.csdn.net/lwq_new?type=blog"><img alt="CSDN" src="https://img.shields.io/badge/CSDN-tsundere_x-blue?style=flat-square&logo=c&logoColor=fc5531"></a>
-<a href="mailto:liwenqikeep@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liwenqikeep@gmail.com?style=flat-square&logo=gmail"></a>
+<a href="mailto:liwenqikeep@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-liwenqikeep@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
